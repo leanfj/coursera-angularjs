@@ -9,7 +9,7 @@ angular.module('meuPrimeiroApp', [])
   $scope.digaola = function () {
     return "Olá Leandro";
   }
-
+  console.log($scope);
 });
 
 })();
