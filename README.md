@@ -2,9 +2,9 @@ Repositório para conclusão prática do curso Coursera: Single Page Web Applica
 
 Repository for pratice conclusion of course: Single Page Web Applications with AngularJS by Coursera
 
-#Conhecimentos desenvolvidos durante o curso:
+## Conhecimentos desenvolvidos durante o curso:
 
-## AngularJS
+# AngularJS
 
 
 
@@ -24,4 +24,4 @@ Repository for pratice conclusion of course: Single Page Web Applications with A
 ### INDETIFICAÇÃO - Single Page Web Applications with AngularJS
 ### PROFESSOR - [Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin)
 
-Data de conclusão - 
+Data de conclusão -
