@@ -12,13 +12,13 @@ angular.module('calculadoraDeNome', [])
   // scope com function para ser executado na diretiva ng-keyup
   $scope.mostraNumero = function () {
     // coloca o valor digitado para ser executado pela function
-    var valorTotalNome = calculaNumericoParaString($scope.nome);
+    var valorTotalNome = calculaStringParaNumerico($scope.nome);
     // valor executado pela function dentro do scope
     $scope.valorTotal = valorTotalNome;
 
   };
 
-  function calculaNumericoParaString(string) {
+  function calculaStringParaNumerico(string) {
     var stringValorTotal = 0;
     for (var i = 0; i < string.length; i++) {
       // soma o valor Unicode de cada letra na var stringValorTotal
